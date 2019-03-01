@@ -1,0 +1,22 @@
+h3.page-heading { margin: 20px 10px 20px 0; display: inline-block; }
+.hints { font-size: 14px; color: #aaa; display: inline-block; margin: 0 5px; }
+.user-details .modal-body{text-align: center;}
+.user-details.modal .modal-content .modal-body img { height: 300px; margin-bottom: 20px; }
+.edit-details.modal .modal-content .modal-body img { height: 120px; margin: 0 20px 20px 0; }
+.crf-toast .Toastify__toast { border-radius: 3px; box-shadow: 0 0px 10px 3px rgba(0, 0, 0, 0.4); min-height: 36px; padding-left: 15px; padding-right: 15px; }
+.label-input {width: 100%;display: block;margin: 0 0 20px;}
+.label-input label {display: block; font-size:12px; color:#666; text-transform: uppercase; font-weight:500;  }
+.fields {position:relative; width:100%; border:1px solid #eee; margin:0;   border-radius:4px;  box-shadow:0 0 10px 0 rgba(0,0,0,.05);}
+.label-input .fields input{ width:100%; border:0; margin:0; padding:10px; line-height:22px; font-size:13px; font-weight:400; color:#000; background:#fff; border-radius:4px;position: relative; z-index: 100;}
+span.validation-error {position: absolute; top: 0; width: 100%; height: 100%; left: 0; font-size: 0; box-shadow: 0 0 10px 0 rgba(255,1,0,.5); border-radius: 4px; z-index: 0; }
+.image-wrapper .card-img-top{height: 250px;max-width: 348px;width: auto;}
+.image-wrapper {text-align: center;}
+a.product-details-link { position: relative;text-decoration: none !important; }
+.card button.btn.btn-primary { position: absolute; right: -10px; border-radius: 50%; height: 35px; width: 35px; top: -10px; display: none; padding: 0; }
+.card:hover button.btn.btn-primary { display: block; }
+.card:hover button.btn.btn-primary svg{ vertical-align: initial; }
+.online-badge { width: 10px; height: 10px; display: inline-block; margin: 0 5px; background: #aaa; border-radius: 50%; }
+.online-badge.active { background: #64ca53; }
+a.product-details-link .card-title.h5 {  color: #343a40; }
+.form-button button{margin: 0 5px 0 0;}
+.welcome{text-align: center; margin-top: 60px;}
